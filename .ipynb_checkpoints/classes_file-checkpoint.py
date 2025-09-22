@@ -5,7 +5,7 @@ from torchvision import transforms
 # --- Configuration ---
 # IMPORTANT: Make sure this path points to your training data directory.
 # It should contain subfolders for each disease class.
-TRAIN_DATA_PATH = 'pady/train' # Or whatever the correct path is
+TRAIN_DATA_PATH = 'downloads/train' # Or whatever the correct path is
 
 # --- Main Script ---
 
